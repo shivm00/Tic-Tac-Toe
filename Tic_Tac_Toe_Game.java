@@ -27,7 +27,6 @@ public class Tic_Tac_Toe_Game {
 				System.out.println("Turn: Player1");
 				System.out.print("Enter the row: ");
 				rowInput=scn.nextInt();
-				System.out.println();
 				System.out.print("Enter the column: ");
 				colInput=scn.nextInt();
 				System.out.println();
